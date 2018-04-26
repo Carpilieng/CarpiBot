@@ -7,6 +7,6 @@
   "start": "node mybot.js"
   },
   "dependencies": {
-  "version": "8.11.1"
+  "discord.js": "11.1.3"
   }
 }
