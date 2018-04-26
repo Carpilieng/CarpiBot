@@ -7,6 +7,6 @@
   "start": "node mybot.js"
   },
   "dependencies": {
-  "version": "11.3.2"
+  "version": "11.1.0"
   }
 }
