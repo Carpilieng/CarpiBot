@@ -1,6 +1,6 @@
 {
-  "name": "Carpi's_Maid"
-  "description" : "First test supposed to work 24/7",
+  "name": "Carpi's_Maid",
+  "description": "First test supposed to work 24/7",
   "version": "1.0.1",
   "main": "mybot.js",
   "scripts": {
