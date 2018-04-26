@@ -1,10 +1,10 @@
 {
-  "name": "Carpi's_Maid",
-  "description": "First test supposed to work 24/7",
-  "version": "1.0.1",
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
   "main": "mybot.js",
   "scripts": {
-  "start": "node mybot.js"
+   "start": "node mybot.js"
   },
   "dependencies": {
   "discord.js": "11.1.3"
